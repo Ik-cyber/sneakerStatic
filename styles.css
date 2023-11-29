@@ -246,6 +246,7 @@ nav {
   }
   .addToCart {
     display: flex;
+    
     justify-content: center;
     align-items: center;
     background-color: hsl(26, 100%, 55%);
